@@ -1,1 +1,0 @@
-/Users/apple/StudioProjects/zing_whitelabel_revamp/build/app/intermediates/cxx/RelWithDebInfo/3i251x57/obj/x86_64
