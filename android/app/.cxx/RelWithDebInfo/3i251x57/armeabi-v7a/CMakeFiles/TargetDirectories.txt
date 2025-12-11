@@ -1,0 +1,2 @@
+/Users/apple/StudioProjects/zing_whitelabel_revamp/android/app/.cxx/RelWithDebInfo/3i251x57/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/apple/StudioProjects/zing_whitelabel_revamp/android/app/.cxx/RelWithDebInfo/3i251x57/armeabi-v7a/CMakeFiles/rebuild_cache.dir
