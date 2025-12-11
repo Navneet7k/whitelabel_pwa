@@ -37,7 +37,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=102357593');
+        navigator.serviceWorker.register(`${window.location.pathname}flutter_service_worker.js?v=102357593`);
       });
     }
   </script>
